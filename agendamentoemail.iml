@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="Hibernate" />
+        <datasource-mapping>
+          <factory-entry name="Entities" />
+          <factory-entry name="agendamento" value="dedda603-9a75-4086-88fd-9993fd4c7ccf" />
+          <factory-entry name="javaee8" />
+        </datasource-mapping>
+        <naming-strategy-map />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/classes/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
